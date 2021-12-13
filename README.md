@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 
 
-🌱 I’m currently working on the [NYC SDG Index](https://github.com/PolinaPolskaia/NYCindex)
+🌱 I’m currently working on the [NYC SDG Index](https://github.com/PolinaPolskaia/NYCindex).
