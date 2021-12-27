@@ -32,17 +32,9 @@ const polina = {
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCompetitions: {
                         competitions: "Kaggle", "OpenDataScience",
-                        challenges: "#100DaysOfCode", "TidyTuesday", "DataVizChallenge", "MakeoverMonday", "30DayMapChallenge",
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
-                      
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
+                        challenges: "#100DaysOfCode", "TidyTuesday", "MakeoverMonday", "30DayMapChallenge",
+                        hackathons: "DS4A", "EmpoweredEnginers", "Women+DataHackathon",
+                        openSourceProjects: "broadstreet+Covid-19"
   challenge: "I am doing the #100DaysOfCode challenge focused on Python and ML"
 }
 ```
