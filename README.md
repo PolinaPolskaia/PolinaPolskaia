@@ -18,6 +18,7 @@ A Data Scientist passionate about serving society by using data to support infor
 
 - 🌱 I’m currently working on the [NYC SDG Index](https://github.com/PolinaPolskaia/NYCindex).
 - 📖 I’m currently learning ☁️ Cloud computing, 💻  D3.js, 📊 Survey methodology.
+- 🌐 I am actively participating in various hackathons and academic projects.
 
 <h3 align="left">Languages and Tools:</h1>
 
