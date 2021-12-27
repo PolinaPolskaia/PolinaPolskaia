@@ -30,12 +30,20 @@ const polina = {
   code: [Python, R, SQL, Javascript],
   tools: [Stata, SPSS, Docker, Google analytics, Excel],
   architecture: ["microservices", "event-driven", "design system pattern"],
+  techCompetitions: {
+                        competitions: "Kaggle", "Open Data Science",
+                        challenges: "#100DaysOfCode", "TidyTuesday", 
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+                      
   techCommunities: {
                         coorganizer: "AfroPython",
                         speaker: "Latinity",
                         mentor: "EducaTRANSforma"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  challenge: "I am doing the #100DaysOfCode challenge focused on Python and ML"
 }
 ```
 
