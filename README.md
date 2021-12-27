@@ -1,4 +1,4 @@
-### Hi there, I am Polina <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+# Hi there, I am Polina <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <!--
 **PolinaPolskaia/PolinaPolskaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
