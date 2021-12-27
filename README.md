@@ -19,3 +19,4 @@ A Data Scientist passionate about serving society by using data to support infor
 🌱 I’m currently working on the [NYC SDG Index](https://github.com/PolinaPolskaia/NYCindex).
 
 <h3 align="left">Languages and Tools:</h1>
+https://www.flaticon.com/free-icon/instagram_2111463?related_id=2111491&origin=search
