@@ -29,7 +29,8 @@ const polina = {
   pronouns: "she" | "her",
   code: [Python, R, SQL, Javascript],
   tools: [Stata, SPSS, Docker, Google analytics, Excel],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  dataviz: [Shiny, Plotly, Streamlit, ArcGIS, Tableau, PowerBI, D3.js, Datawrapper],
+  techniques: ["EDA", "Chi2", "T-test", "Z-test", "Regression", "Clustering", "Classification"],
   techCompetitions: {
                         competitions: "Kaggle", "OpenDataScience",
                         challenges: "#100DaysOfCode", "TidyTuesday", "MakeoverMonday", "30DayMapChallenge",
