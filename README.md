@@ -31,8 +31,8 @@ const polina = {
   tools: [Stata, SPSS, Docker, Google analytics, Excel],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCompetitions: {
-                        competitions: "Kaggle", "Open Data Science",
-                        challenges: "#100DaysOfCode", "TidyTuesday", 
+                        competitions: "Kaggle", "OpenDataScience",
+                        challenges: "#100DaysOfCode", "TidyTuesday", "DataVizChallenge", "MakeoverMonday", "30DayMapChallenge",
                         coorganizer: "AfroPython",
                         speaker: "Latinity",
                         mentor: "EducaTRANSforma"
