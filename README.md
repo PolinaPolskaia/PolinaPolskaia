@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 
 A Data Scientist passionate about serving society by using data to support informed decisions, educating through data visualizations, and actively addressing systemic racism in data practices.
 
-🌱 I’m currently working on the [NYC SDG Index](https://github.com/PolinaPolskaia/NYCindex).
+- 💻 I’m currently working on the [NYC SDG Index](https://github.com/PolinaPolskaia/NYCindex).
+- 🌱 I’m currently learning ...
 
 <h3 align="left">Languages and Tools:</h1>
 
