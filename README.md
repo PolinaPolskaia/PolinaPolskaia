@@ -36,6 +36,8 @@ const polina = {
                         challenges: "#100DaysOfCode", "TidyTuesday", "MakeoverMonday", "30DayMapChallenge",
                         hackathons: "DS4A", "EmpoweredEnginers", "Women+DataHackathon",
                         openSourceProjects: "broadstreet+Covid-19"
+                        },
+  interests: ["EDA", "Chi2", "T-test", "Z-test", "Regression", "Clustering", "Classification"],
   challenge: "I am doing the #100DaysOfCode challenge focused on Python and ML"
 }
 ```
