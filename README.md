@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![Instagram Badge](https://img.shields.io/badge/-polinacsv-pink?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/polinacsv/)](https://www.instagram.com/polinacsv/)
 A Data Scientist passionate about serving society by using data to support informed decisions, educating through data visualizations, and actively addressing systemic racism in data practices.
 
 - 🌱 I’m currently working on the [NYC SDG Index](https://github.com/PolinaPolskaia/NYCindex).
@@ -44,5 +44,4 @@ const polina = {
 ```
 
 
-[![Instagram Badge](https://img.shields.io/badge/-polinacsv-pink?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/polinacsv/)](https://www.instagram.com/polinacsv/)
 
