@@ -27,8 +27,8 @@ A Data Scientist passionate about serving society by using data to support infor
 ```javascript
 const polina = {
   pronouns: "she" | "her",
-  code: [Python, R, SQL, Javascript],
-  tools: [Stata, SPSS, Docker, Google analytics, Excel],
+  languages: [Python, R, SQL, Javascript],
+  tools: [Stata, SPSS, Docker, Excel],
   dataviz: [Shiny, Plotly, Streamlit, ArcGIS, Tableau, PowerBI, D3.js, Datawrapper],
   techniques: ["EDA", "Chi2", "T-test", "Z-test", "Regression", "Clustering", "Classification"],
   techCompetitions: {
@@ -44,10 +44,4 @@ const polina = {
 
 
 
-
-
-
-
-
-<h3 align="left">Languages and Tools:</h1>
 
