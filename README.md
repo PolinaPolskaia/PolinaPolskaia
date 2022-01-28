@@ -43,5 +43,5 @@ const polina = {
 ```
 
 
-
+[![Instagram Badge](https://img.shields.io/badge/-polinacsv-pink?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/polinacsv/)](https://www.instagram.com/polinacsv/)
 
