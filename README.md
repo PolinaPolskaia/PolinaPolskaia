@@ -13,12 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-A Data Scientist passionate about serving society by using data to support informed decisions, educating through data visualizations, and actively addressing systemic racism in data practices.
+I am working at the intersection of Data Science and Policy Analysis.
 
-- 🌱 I’m currently working on the [NYC SDG Index](https://github.com/PolinaPolskaia/NYCindex).
-- 📖 I’m currently learning ☁️ Cloud computing, 💻  D3.js, 📊 Survey methodology.
-- 🌐 I am actively participating in various hackathons and academic projects.
-- ❓ Ask me about anything related to using Stata and/or U.S. Census data.
+❓ Ask me about anything about Causal Inference and Machine Learning.
 - 💟 I have a data science blog on [Instagram](https://www.instagram.com/polinacsv/).
 
 
