@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 I am working at the intersection of Data Science and Policy Analysis.
 
-❓ Ask me about anything about Causal Inference and Machine Learning.
+- ❓ Ask me about anything about Causal Inference and Machine Learning.
 - 💟 I have a data science blog on [Instagram](https://www.instagram.com/polinacsv/).
 
 
