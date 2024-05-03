@@ -24,7 +24,7 @@ I am working at the intersection of Data Science and Policy Analysis.
 ```javascript
 const polina = {
   pronouns: "she" | "her",
-  languages: [Python, R, SQL, Javascript],
+  languages: [Python, R, SQL, C++],
   tools: [Stata, SPSS, Docker, Excel],
   dataviz: [Shiny, Plotly, Streamlit, ArcGIS, Tableau, PowerBI, D3.js, Datawrapper],
   techniques: ["EDA", "Chi2", "T-test", "Z-test", "Regression", "Clustering", "Classification"],
